@@ -112,7 +112,7 @@ Contributions are welcome.
 You can contact me [@MIKEY](https://tx.me/YOUTUBERYT54355).
 
 ## Thanks
-Thanks to [Dan](https://github.com/delivrance "Dan") for his [Pyrogram](https://github.com/pyrogram/pyrogram "Pyrogram") library.
+Thanks to [light] 
 
 Thanks to [Tulir Asokan](https://github.com/tulir "Tulir Asokan") for his [TgFileStream](https://github.com/tulir/tgfilestream "TgFileStream") Bot.
 
