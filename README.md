@@ -7,7 +7,7 @@
 An attempt to implement the screenshot generation of telegram files without downloading the entire file. Live version can be found here [@screenshotit_bot](https://tx.me/screenshotit_bot "Screenshot Generator Bot").
 
 ## Installation Guide
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Ns-AnoNymouS/animated-lamp)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/mikeyTG/SCREENSHOT_BOT_ULTRA)
 
 ### Prerequisites
 
@@ -67,7 +67,7 @@ Now go and `/start` the bot. If everything went right, bot will respond with wel
 
 ## Setting up Streaming Service
 
-The streaming service can be a custom version of [TgFileStream](https://github.com/tulir/tgfilestream), modded to work with this setup. The mod basicaly is adding a type of header based authentication and changing the endpoints. The authentication part is optional and the endpoint used here is `/file/:chat_id/:message_id`. Make sure to note these changes when deploying your own instance. The streaming service used for [@screenshotit_bot](https://tx.me/screenshotit_bot "Screenshot Generator Bot") is not related to [TgFileStream](https://github.com/tulir/tgfilestream) and I do not plan to make it OSS.
+The streaming service can be a custom version of [TgFileStream](https://github.com/tulir/tgfilestream), modded to work with this setup. The mod basicaly is adding a type of header based authentication and changing the endpoints. The authentication part is optional and the endpoint used here is `/file/:chat_id/:message_id`. Make sure to note these changes when deploying your own instance.I do not plan to make it OSS.
 
 ## Supported commands and functions
 
@@ -109,7 +109,7 @@ In bot settings.
 Contributions are welcome.
 
 ## Contact
-You can contact me [@odysseusmax](https://tx.me/odysseusmax).
+You can contact me [@odysseusmax](https://tx.me/YOUTUBERYT54355).
 
 ## Thanks
 Thanks to [Dan](https://github.com/delivrance "Dan") for his [Pyrogram](https://github.com/pyrogram/pyrogram "Pyrogram") library.
